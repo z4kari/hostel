@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ce93!p-g!yq9-)ec-e)$8-li&8mxs$q(=@^4$dhk(y%)(w3!vg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mobilestor.herokuapp.com','127.0.0.1']
 
 
 # Application definition
